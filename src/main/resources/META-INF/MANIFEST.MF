@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: net.nekomura.Main
+Class-Path: annotations-13.0.jar kotlin-stdlib-1.4.10.jar okhttp-4.9.1.j
+ ar okio-2.8.0.jar json-20200518.jar kotlin-stdlib-common-1.4.0.jar
+

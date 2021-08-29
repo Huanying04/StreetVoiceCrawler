@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="StreetVoiceCrawler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StreetVoiceCrawler_jar</output-path>
+    <root id="root">
+      <element id="archive" name="StreetVoiceCrawler.jar">
+        <element id="module-output" name="StreetVoiceCrawler" />
+      </element>
+      <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.4.10" />
+      <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:4.9.1" />
+      <element id="library" level="project" name="Maven: com.squareup.okio:okio:2.8.0" />
+      <element id="library" level="project" name="Maven: org.json:json:20200518" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.0" />
+    </root>
+  </artifact>
+</component>
