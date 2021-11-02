@@ -1,5 +1,5 @@
 # StreetVoiceCrawler
-可以用來獲取歌曲的m3u8檔的URL位置，可使用VLC Player等軟體轉換成mp3檔
+可以用來獲取歌曲的m3u8檔的URL位置，可使用VLC Player等軟體串流竝轉存成mp3檔
 
 ## 使用方法
 輸入
